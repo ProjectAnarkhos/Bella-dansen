@@ -1,0 +1,10 @@
+{
+  "Type": "content",
+  "Name": "Caramelldansen Bell",
+  "ModID": "caramellabell",
+  "Version": "1.0.1",
+  "Description": "Adds Caramelldansen (2001 Swedish Original) to the Bell's alarm, listen, and walk sounds.",
+  "Website": "",
+  "Authors": ["prototype464", "Caramell"],
+  "Contributors": ["The_Turtle_Man"]
+}
